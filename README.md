@@ -1,5 +1,5 @@
 # 4-C-Juan-Enoque---students_performance
-Turma 4ºC ADS UNINASSAU, trabaho de Machine Learning
+Turma 4ºC ADS UNINASSAU, projeto de Machine Learning
 
 Alunos:
 Juan Enoque de Barros Silva - 01706546
