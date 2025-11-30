@@ -1,0 +1,19 @@
+{
+    "nome": "XGBoost Otimizado",
+    "r2_validacao": 0.5840908226235004,
+    "rmse_validacao": 4.850695310937064,
+    "mae_validacao": 3.742616654962182,
+    "r2_teste": 0.5177970234165816,
+    "rmse_teste": 4.927442872811269,
+    "mae_teste": 3.798958500106021,
+    "best_params": {
+        "subsample": 0.8,
+        "n_estimators": 50,
+        "min_child_weight": 3,
+        "max_depth": 3,
+        "learning_rate": 0.1,
+        "gamma": 0,
+        "colsample_bytree": 1.0
+    },
+    "cv_score": 0.527717625129589
+}
