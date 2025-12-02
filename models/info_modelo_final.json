@@ -1,19 +1,19 @@
 {
     "nome": "XGBoost Otimizado",
-    "r2_validacao": 0.5840908226235004,
-    "rmse_validacao": 4.850695310937064,
-    "mae_validacao": 3.742616654962182,
-    "r2_teste": 0.5177970234165816,
-    "rmse_teste": 4.927442872811269,
-    "mae_teste": 3.798958500106021,
+    "r2_validacao": 0.5963427283122025,
+    "rmse_validacao": 0.6445532469615592,
+    "mae_validacao": 0.5015882097692859,
+    "r2_teste": 0.5287994380759726,
+    "rmse_teste": 0.6542559973618496,
+    "mae_teste": 0.5034883321241542,
     "best_params": {
-        "subsample": 0.8,
-        "n_estimators": 50,
-        "min_child_weight": 3,
+        "subsample": 0.6,
+        "n_estimators": 250,
+        "min_child_weight": 2,
         "max_depth": 3,
-        "learning_rate": 0.1,
-        "gamma": 0,
-        "colsample_bytree": 1.0
+        "learning_rate": 0.05,
+        "gamma": 2,
+        "colsample_bytree": 0.6
     },
-    "cv_score": 0.527717625129589
+    "cv_score": 0.5286697860872712
 }
